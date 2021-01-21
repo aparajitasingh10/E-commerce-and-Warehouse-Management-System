@@ -1,0 +1,106 @@
+{
+	"email" : "abc3@test.com",
+	"username" : "test3",
+	"password" : "byeeeee123hello",
+	"phone" : "1234577890"
+}
+
+
+{
+	"email" : "abc3@test.com",
+	"username" : "john",
+	"password" : "iknownothin",
+	"phone" : "1234558890",
+	"role" : "0"
+}
+
+{
+	"email" : "arya@facelessman.com",
+	"username" : "arya",
+	"password" : "valarmorghulis",
+	"phone" : "1234664490"
+}
+
+{
+	"username" : "Nivetha",
+	"phone" : "9988776655",
+	"email" : "nive@abc.com",
+	"password" : "hellobye"
+	
+}
+
+{
+	"username" : "Alexa",
+	"password" : "hola123bye",
+	"email" : "alexa@amaon.com",
+	"phone" : "123456"
+}
+
+{
+	"username" : "Alexa2",
+	"password" : "hola123byeseeya",
+	"email" : "alexa2@amazon.com",
+	"phone" : "3311224455"
+}
+
+
+{
+	"username" : "Aladin",
+	"password" : "hellogenie"
+}
+
+{
+	"username" : "Sam",
+	"password" : "seller@dbms",
+	"email" : "sam@seller.com",
+	"phone" : "3311242455",
+	"role" : "1"
+}
+{
+	"username" : "Admin2",
+	"email" : "admin2@wms.com",
+	"phone" : "2233445566",
+	"role" : "2",
+	"password" : "newwadmin"
+}
+
+
+{
+	"username" : "Nike",
+	"email" : "seller@nike.com",
+	"phone" : "3344558877",
+	"role" : "1",
+	"password" : "nikeshoes"
+}
+
+{
+	"username" : "Adidas",
+	"password" : "adidastees",
+	"email" : "wms@adidas.com",
+	"phone" : "9988776633",
+	"role" : "1"
+}
+
+{
+	"username" : "Puma",
+	"password" : "pumashoes",
+	"email" : "wms@puma.com",
+	"phone" : "765978",
+	"role" : "1"
+}
+
+{
+	"email" : "aparajita@gmail.com",
+	"username" : "aparajita",
+	"password" : "iamkool",
+	"phone" : "1234558890",
+	"role" : "2"
+}
+
+{
+	"username" : "Kroger",
+	"password" : "aparajitaloveskroger",
+	"email" : "seller@kroger.com",
+	"phone" : "53985",
+	"role" : "1"
+}

@@ -1,10 +1,8 @@
-# E-commerce-and-Warehouse-Management-System
-
-## Members of Team: Aparajita Singh, Nivetha Kesavan, Sowjanya Achar
+## Project name: Warehouse Management System
+## Members of Team: Sowjanya Achar, Aparajita Singh, Nivetha Kesavan
 -----------------------------------------------------------------------
 
 Implemented WMS using MERN stack. 
-
 Added Admin, Seller and Client functionality. 
 
 ### OOAD pattern used: 
